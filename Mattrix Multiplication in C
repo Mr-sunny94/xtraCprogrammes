@@ -71,3 +71,4 @@ int main()
     return 0;
 }
 //--------END---------//
+// for example how to put matrices in output(terminal) refer to 0001.openme matrix multiplication in c //
